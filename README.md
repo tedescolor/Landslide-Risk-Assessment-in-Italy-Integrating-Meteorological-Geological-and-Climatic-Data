@@ -68,7 +68,7 @@ This project is designed to support researchers, environmental agencies, and pol
 - **ITAlian rainfall-induced LandslIdes CAtalogue (ITALIC)**: [Link](https://zenodo.org/records/8009366)
 - **Slope Units Dataset**: [Link](https://geomorphology.irpi.cnr.it/tools/slope-units)
 - **CMCC VHR-REA_IT dataset**: [Link](https://www.mdpi.com/2306-5729/6/8/88)
-- *Terrain Analysis**: [link](https://www.sciencedirect.com/science/article/pii/S0169555X20300969)
+- **Terrain Analysis**: [link](https://www.sciencedirect.com/science/article/pii/S0169555X20300969)
 
 ## Contact
 For questions or collaboration opportunities, please contact:
